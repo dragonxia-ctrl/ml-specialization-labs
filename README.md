@@ -1,1 +1,1 @@
-# ml-specialization-labs
+# Machine Learning
